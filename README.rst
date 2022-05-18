@@ -1,5 +1,5 @@
 .. Note that we use raw HTML in the header section because centering images and paragraphs is not supported in Github (https://github.com/github/markup/issues/163)
-Fork of dateparser that supports fractional amounts of time
+
 
 .. raw:: html
 
